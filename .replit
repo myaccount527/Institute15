@@ -1,1 +1,3 @@
- run = "npm start"
+run = "npm start"
+language = "nodejs"
+entrypoint = "server.js"
